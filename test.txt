@@ -1,2 +1,2 @@
-version 666666
-from testing
+version 8888
+포크뜬 아이디에서 수정
